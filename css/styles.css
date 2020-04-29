@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700&display=swap');
+
+/* Resetting all attributes of the box sizing */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* GENERAL STYLE */
+
+body {
+    font-size: 1.1em;
+    font-family: "Roboto","Helvetica Neue",Arial,sans-serif;
+}
+
+table {
+    font-size: .7em;
+    width: 100%;
+}
+
+header, main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main {
+    padding: 0 5px;
+    min-height: 90vh;
+}
+
+main h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+footer {
+    width:100%; 
+    margin-top: 50px;   
+}
+
+/* The footer is centerd to the page just like the header with the navigation and its tabs */
+.footer-info{
+    max-width: 800px;
+    margin: 0 auto;       
+    background-color: #042F40;
+    text-align: center;
+    color: #fff;
+    font-size: .7em;
+    padding: 10px;
+}
+
+/********************** 
+** APPLICATION MENU 
+***********************/
+
+/* The navigation is centered to the page */
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;   
+    margin-bottom: 20px;
+    position:relative;
+    animation: navinanimate 2s;    
+}
+
+nav button {
+    background-color: #1FAFBF;
+    color: #fff;
+    padding: 20px 10px;
+    font-size: 1em;
+    transition: background-color 400ms linear;
+}
+
+button:hover{
+    background-color: #042F40;    
+}
+
+.active-red {
+    background-color: #042F40;
+}
+
+/*****************
+** Matches Tab **
+******************/
+
+#table-matches {
+    /* width: 100%; */
+    color: #A0A5AA;
+}
+
+#table-matches thead th {
+    background-color: #F0F2F5;
+    text-align: center;
+}
+
+#table-matches th, table td {     
+    padding: .75em 0.25em;
+}
+
+#table-matches tr td:nth-of-type(1) {    
+    text-align: right;
+}
+
+#table-matches tr:nth-child(odd){ 
+    
+}
+
+#table-matches tr:nth-child(even){
+    background: rgb(238, 238, 238);
+}
+
+#table-matches tr:hover {
+    background-color: rgba(4, 47, 64, 0.3);
+    color: #fff;
+    transition: all 500ms ease-in-out;    
+}
+
+.figure-matches {    
+    width: auto;
+    height: 15px;        
+    text-align: center;
+}
+
+.figure-matches img {
+    width: auto;
+    height: 100%;
+    text-align: center;
+    transition: all 500ms ease-in-out;
+}
+
+.figure-matches  img:hover {
+    transform: scale(3);
+}
+/******************
+** Standings Tab **
+*******************/
+
+#table-standings {
+    /* width: 100%;  */
+    color: #A0A5AA;
+    margin: 0 auto;
+}
+
+#table-standings thead {
+    background-color: #F0F2F5;
+    text-align: center;
+}
+
+#table-standings tr td { 
+text-align: center;
+}
+
+#table-standings th, table td {     
+    padding: .75em 0.25em;
+}
+
+#table-standings tr td:nth-of-type(1) {    
+    color: rgb(93, 93, 94);
+    font-weight: bold;
+}
+
+#table-standings tr td:nth-of-type(3) {    
+    text-align: left;
+}
+
+#table-standings tr td:nth-of-type(8) {    
+    color: rgb(93, 93, 94);
+    font-weight: bold;
+}
+
+#table-standings tr:nth-child(odd){ 
+    
+}
+
+#table-standings tr:nth-child(even){
+    background: rgb(238, 238, 238);
+}
+
+#table-standings tr:hover {
+    background-color: rgba(4, 47, 64, 0.3);
+    color: #fff;
+    transition: all 500ms ease-in-out;    
+}
+
+.figure-standings {    
+    width: auto;
+    height: 30px;        
+}
+
+.figure-standings img {
+    width: auto;
+    height: 100%;
+    text-align: center;
+    transition: all 500ms ease-in-out;
+}
+
+.figure-standings img:hover {
+    transform: scale(3);
+}
+
+#legends {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/**************
+** Teams Tab **
+***************/
+
+form {
+    width: 100%;
+    margin: 5px 0 20px 0;
+}
+
+select {
+    display: block;
+    margin: 0 auto;
+    padding: 5px 15px;
+    border: 2px solid #042F40;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 1.2em;    
+}
+
+.my-team-image {
+    text-align: center;
+    height: 200px;
+    width: auto;
+    transition: all 1500ms ease-in-out;
+}
+
+.my-team-image img {
+    height: 100%;
+    width: auto;
+}
+
+#show-squad-table {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 50px;
+    background-color: #1FAFBF;
+    border: 4px solid #042F40;
+    color: #fff;
+    border-radius: 10px 50px;
+    margin-top: 30px;
+}
+
+#show-squad-table:hover {
+    cursor: pointer;
+    background-color: #042F40;
+    border: 4px solid #1FAFBF;
+    transition: all 400ms ease-in;
+}
+
+#team-squad h3 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+#team-data {
+    margin-top: -170px;
+    margin-bottom: 100px;
+    margin-left: 50%;
+    padding-top: 30px;
+    max-width: 300px;
+    line-height: 1.7em;
+    opacity: 0;
+    transition: opacity 1000ms ease-out;    
+}
+
+#table-squad {    
+    color: #A0A5AA;
+    margin: 0 auto;
+}
+
+#table-squad thead {
+    background-color: #F0F2F5;
+    text-align: center;
+}
+
+#table-squad tr td { 
+text-align: center;
+}
+
+#table-squad th, table td {     
+    padding: .75em 0.25em;
+}
+
+#table-squad tr:nth-child(odd){ 
+    
+}
+
+#table-squad tr:nth-child(even){
+    background: rgb(238, 238, 238);
+}
+
+#table-squad tr:hover {
+    background-color: rgba(4, 47, 64, 0.5);
+    transition: all 500ms ease-in-out;
+    color: #fff;
+}
+
+.player-nationality-image {
+    display: block;
+    margin: 0 auto;
+    width: 50px;
+    height: auto;
+}
+
+.player-nationality-image img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+}
+
+.player-nationality-image img:hover {
+    transform: scale(1.3);   
+}
+/*********************
+***** ANIMATIONS *****
+**********************/
+
+.animate-from-top{
+    position:relative;
+    animation:animatetop 0.8s;
+}
+
+@keyframes animatetop{
+    0% {top:-300px;opacity:0} 
+    50% {top:50px;opacity:0.5}
+    100% {top:0;opacity:1}
+}
+
+.animate-from-left{
+    position:relative;
+    animation:animateleft 0.8s;
+}
+
+@keyframes animateleft{
+    0% {left:-300px;opacity:0} 
+    50% {left:50px;opacity:0.5}
+    100% {left:0;opacity:1}
+}
+
+.animate-from-right{
+    position:relative;
+    animation:animateright 0.8s;
+}
+
+@keyframes animateright{
+    0% {right:-300px;opacity:0} 
+    50% {right:50px;opacity:0.5}
+    100% {right:0;opacity:1}
+}
+
+@keyframes navinanimate{    
+    from{transform: translateY(-200px);opacity:0} 
+    to{transform: translateY(0px);opacity:1} 
+
+}
+
+.animate-team-data{
+    position:relative;
+    animation: animateTeamData 0.8s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes animateTeamData{
+    0% {transform: translate(-100px);opacity:0} 
+    50% {transform: translate(750px);opacity:0.5}
+    100% {transform: translate(650px);opacity:1}
+}
+
+/***********************************************  
+** MEDIUM AND BIG SCREENS - MEDIA QUERY BREAK **
+************************************************/
+@media (min-width:600px) {
+
+    body {
+        font-size: 1.1em;
+    }
+
+    table {
+        font-size: 1.1em;        
+    }
+
+    main {
+        padding: 0 50px;
+    }       
+
+    .figure-matches {
+        height: 30px;
+    }
+
+}

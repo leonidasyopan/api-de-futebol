@@ -1,0 +1,28 @@
+Competition: Premier League
+41: {id: 2021, area: {id: 2072, name: "England"}, name: "Premier League", code: "PL", emblemUrl: null,…}
+area: {id: 2072, name: "England"}
+code: "PL"
+currentSeason: {id: 468, startDate: "2019-08-09", endDate: "2020-05-17", currentMatchday: 13, winner: null}
+emblemUrl: null
+id: 2021
+lastUpdated: "2019-11-25T21:40:44Z"
+name: "Premier League"
+numberOfAvailableSeasons: 27
+plan: "TIER_ONE"
+
+Team: Manchester City
+8: {id: 65, area: {id: 2072, name: "England"}, name: "Manchester City FC", shortName: "Man City",…}
+address: "SportCity Manchester M11 3FF"
+area: {id: 2072, name: "England"}
+clubColors: "Sky Blue / White"
+crestUrl: "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
+email: "mancity@mancity.com"
+founded: 1880
+id: 65
+lastUpdated: "2019-11-21T02:31:22Z"
+name: "Manchester City FC"
+phone: "+44 (0870) 0621894"
+shortName: "Man City"
+tla: "MCI"
+venue: "Etihad Stadium"
+website: "https://www.mancity.com"

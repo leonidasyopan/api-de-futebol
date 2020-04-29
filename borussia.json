@@ -1,0 +1,354 @@
+{
+    "id": 18,
+    "area": {
+        "id": 2088,
+        "name": "Germany"
+    },
+    "name": "Borussia Mönchengladbach",
+    "shortName": "M'gladbach",
+    "tla": "BMG",
+    "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_M%C3%B6nchengladbach_logo.svg",
+    "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+    "phone": "+49 (02161) 92930",
+    "website": "http://www.borussia.de",
+    "email": "info@borussia.de",
+    "founded": 1900,
+    "clubColors": "Black / White / Green",
+    "venue": "Stadion im Borussia-Park",
+    "squad": [
+        {
+            "id": 3176,
+            "name": "Matthias Ginter",
+            "position": "Defender",
+            "dateOfBirth": "1994-01-19T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3185,
+            "name": "Lars Stindl",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-08-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3470,
+            "name": "Yann Sommer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-12-17T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3473,
+            "name": "Michael Lang",
+            "position": "Defender",
+            "dateOfBirth": "1991-02-08T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3475,
+            "name": "Nico Elvedi",
+            "position": "Defender",
+            "dateOfBirth": "1996-09-30T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3480,
+            "name": "Josip Drmić",
+            "position": "Attacker",
+            "dateOfBirth": "1992-08-08T00:00:00Z",
+            "countryOfBirth": "Switzerland",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 3655,
+            "name": "Thorgan Hazard",
+            "position": "Midfielder",
+            "dateOfBirth": "1993-03-29T00:00:00Z",
+            "countryOfBirth": "Belgium",
+            "nationality": "Belgium",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6599,
+            "name": "Torben Müsel",
+            "position": "Attacker",
+            "dateOfBirth": "1999-07-25T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6667,
+            "name": "Tobias Sippel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-03-22T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6668,
+            "name": "Moritz Nicolas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-10-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6669,
+            "name": "Oscar Wendt",
+            "position": "Defender",
+            "dateOfBirth": "1985-10-24T00:00:00Z",
+            "countryOfBirth": "Sweden",
+            "nationality": "Sweden",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6670,
+            "name": "Tony Jantschke",
+            "position": "Defender",
+            "dateOfBirth": "1990-04-07T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6672,
+            "name": "Mamadou Doucouré",
+            "position": "Defender",
+            "dateOfBirth": "1998-05-21T00:00:00Z",
+            "countryOfBirth": "Senegal",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6673,
+            "name": "Justin Hoffmans",
+            "position": "Defender",
+            "dateOfBirth": "1997-02-26T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6674,
+            "name": "Marcel Benger",
+            "position": "Defender",
+            "dateOfBirth": "1998-07-02T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6675,
+            "name": "Florian Mayer",
+            "position": "Defender",
+            "dateOfBirth": "1998-03-04T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6676,
+            "name": "Mandela Egbo",
+            "position": "Defender",
+            "dateOfBirth": "1997-08-17T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6678,
+            "name": "Louis Beyer",
+            "position": "Defender",
+            "dateOfBirth": "2000-05-19T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6679,
+            "name": "Ibrahima Traoré",
+            "position": "Midfielder",
+            "dateOfBirth": "1988-04-21T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "Guinea",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6680,
+            "name": "Patrick Herrmann",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-02-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6681,
+            "name": "Jonas Hofmann",
+            "position": "Midfielder",
+            "dateOfBirth": "1992-07-14T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6682,
+            "name": "Christoph Kramer",
+            "position": "Midfielder",
+            "dateOfBirth": "1991-02-19T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6683,
+            "name": "Tobias Strobl",
+            "position": "Midfielder",
+            "dateOfBirth": "1990-05-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6684,
+            "name": "László Bénes",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-09-09T00:00:00Z",
+            "countryOfBirth": "Slovakia",
+            "nationality": "Slovakia",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6687,
+            "name": "Denis Zakaria",
+            "position": "Midfielder",
+            "dateOfBirth": "1996-11-20T00:00:00Z",
+            "countryOfBirth": "Congo DR",
+            "nationality": "Switzerland",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6688,
+            "name": "Mickaël Cuisance",
+            "position": "Midfielder",
+            "dateOfBirth": "1999-08-16T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6689,
+            "name": "Aaron Herzog",
+            "position": "Midfielder",
+            "dateOfBirth": "1998-01-30T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6690,
+            "name": "Fabian Johnson",
+            "position": "Attacker",
+            "dateOfBirth": "1987-12-11T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "United States",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6691,
+            "name": "Raffael",
+            "position": "Attacker",
+            "dateOfBirth": "1985-03-28T00:00:00Z",
+            "countryOfBirth": "Brazil",
+            "nationality": "Brazil",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6693,
+            "name": "Mike Feigenspan",
+            "position": "Attacker",
+            "dateOfBirth": "1995-08-05T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 6694,
+            "name": "Julio Villalba",
+            "position": "Attacker",
+            "dateOfBirth": "1998-09-11T00:00:00Z",
+            "countryOfBirth": "Paraguay",
+            "nationality": "Paraguay",
+            "role": "PLAYER"
+        },
+        {
+            "id": 7237,
+            "name": "Tsiy Ndenge",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-06-21T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 8443,
+            "name": "Alassane Pléa",
+            "position": "Attacker",
+            "dateOfBirth": "1993-03-10T00:00:00Z",
+            "countryOfBirth": "France",
+            "nationality": "France",
+            "role": "PLAYER"
+        },
+        {
+            "id": 9522,
+            "name": "Florian Neuhaus",
+            "position": "Midfielder",
+            "dateOfBirth": "1997-03-16T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "PLAYER"
+        },
+        {
+            "id": 10244,
+            "name": "Dieter Hecking",
+            "position": null,
+            "dateOfBirth": "1964-09-12T00:00:00Z",
+            "countryOfBirth": "Germany",
+            "nationality": "Germany",
+            "role": "COACH"
+        },
+        {
+            "id": 24192,
+            "name": "Andreas Poulsen",
+            "position": "Defender",
+            "dateOfBirth": "1999-10-13T00:00:00Z",
+            "countryOfBirth": "Denmark",
+            "nationality": "Denmark",
+            "role": "PLAYER"
+        },
+        {
+            "id": 56601,
+            "name": "Keanen Bennetts",
+            "position": "Attacker",
+            "dateOfBirth": "1999-03-09T00:00:00Z",
+            "countryOfBirth": "England",
+            "nationality": "England",
+            "role": "PLAYER"
+        }
+    ],
+    "lastUpdated": "2018-06-23T12:50:44Z"
+}
