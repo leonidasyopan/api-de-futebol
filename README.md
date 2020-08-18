@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://leonidasyopan.com/">
-    <img src="https://leonidasyopan.com/img/logo-leonidas-yopan.png" alt="Logo Leonidas Yopan" width="300" height="94" target="_blank">
+    <img src="https://raw.githubusercontent.com/leonidasyopan/yopan-journal-frontend/master/src/assets/logo-leonidas-yopan-480x150.png" alt="Logo Leonidas Yopan" width="300" height="94" target="_blank">
   </a>
 
   <h3 align="center">Vanilla JavaScript Project | Consuming API</h3>
